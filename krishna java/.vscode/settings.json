@@ -1,0 +1,11 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "/home/jinny/Downloads/openjfx-17.0.1_linux-x64_bin-sdk/javafx-sdk-17.0.1/lib/javafx.swing.jar"
+        ],
+        "exclude": [
+            "/home/jinny/Downloads/openjfx-17.0.1_linux-x64_bin-sdk/javafx-sdk-17.0.1/lib/javafx.base.jar"
+        ]
+    }
+}
