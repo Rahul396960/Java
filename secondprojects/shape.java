@@ -1,4 +1,4 @@
-package com.learning.shape;
+package secondprojects;
 
 class shape
 {

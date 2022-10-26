@@ -1,4 +1,4 @@
-package com.learning.shape;
+package secondprojects;
 
 public class rectangle  extends shape{
     rectangle(int a,int b)
